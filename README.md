@@ -3,3 +3,4 @@
 3. CSS
 4. Command
 5. Github
+6. Problem solving
